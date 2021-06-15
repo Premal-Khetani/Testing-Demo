@@ -1,0 +1,3211 @@
+[{
+    "id": 1,
+    "name": {
+        "en": "Afghanistan",
+        "nl": "Afghanistan"
+    },
+    "short_name": "AF",
+    "iso_code": "AFG",
+    "country_code": "+93",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 2,
+    "name": {
+        "en": "Albania",
+        "nl": "Albanië"
+    },
+    "short_name": "AL",
+    "iso_code": "ALB",
+    "country_code": "+355",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 3,
+    "name": {
+        "en": "Algeria",
+        "nl": "Algerije"
+    },
+    "short_name": "DZ",
+    "iso_code": "DZA",
+    "country_code": "+213",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 4,
+    "name": {
+        "en": "American Virgin Islands",
+        "nl": "Amerikaanse Maagdeneilanden"
+    },
+    "short_name": "VI",
+    "iso_code": "VIR",
+    "country_code": "+1-340 ",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 5,
+    "name": {
+        "en": "American Samoa",
+        "nl": "Amerikaans-Samoa"
+    },
+    "short_name": "AS",
+    "iso_code": "ASM",
+    "country_code": "+1-684 ",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 6,
+    "name": {
+        "en": "Andorra",
+        "nl": "Andorra"
+    },
+    "short_name": "AD",
+    "iso_code": "AND",
+    "country_code": "+376",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 7,
+    "name": {
+        "en": "Angola",
+        "nl": "Angola"
+    },
+    "short_name": "AO",
+    "iso_code": "AGO",
+    "country_code": "+244",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 8,
+    "name": {
+        "en": "Anguilla",
+        "nl": "Anguilla"
+    },
+    "short_name": "AI",
+    "iso_code": "AIA",
+    "country_code": "+1-264 ",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 9,
+    "name": {
+        "en": "Antigua and Barbuda",
+        "nl": "Antigua en Barbuda"
+    },
+    "short_name": "AG",
+    "iso_code": "ATG",
+    "country_code": "+1-268 ",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 10,
+    "name": {
+        "en": "Argentina",
+        "nl": "Argentinië"
+    },
+    "short_name": "AR",
+    "iso_code": "ARG",
+    "country_code": "+54",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 11,
+    "name": {
+        "en": "Armenia",
+        "nl": "Armenië"
+    },
+    "short_name": "AM",
+    "iso_code": "ARM",
+    "country_code": "+374",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 12,
+    "name": {
+        "en": "Aruba",
+        "nl": "Aruba"
+    },
+    "short_name": "AW",
+    "iso_code": "ABW",
+    "country_code": "+297",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 13,
+    "name": {
+        "en": "Ascension",
+        "nl": "Ascension"
+    },
+    "short_name": "SH-AC",
+    "iso_code": null,
+    "country_code": "+247",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 14,
+    "name": {
+        "en": "Australia",
+        "nl": "Australië"
+    },
+    "short_name": "AU",
+    "iso_code": "AUS",
+    "country_code": "+61",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 15,
+    "name": {
+        "en": "Azerbaijan",
+        "nl": "Azerbeidzjan"
+    },
+    "short_name": "AZ",
+    "iso_code": "AZE",
+    "country_code": "+994",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 16,
+    "name": {
+        "en": "Azores",
+        "nl": "Azoren"
+    },
+    "short_name": "PT-20",
+    "iso_code": null,
+    "country_code": "+351",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 17,
+    "name": {
+        "en": "Bahamas",
+        "nl": "Bahamas"
+    },
+    "short_name": "BS",
+    "iso_code": "BHS",
+    "country_code": "+1-242 ",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 18,
+    "name": {
+        "en": "Bahrain",
+        "nl": "Bahrein"
+    },
+    "short_name": "BH",
+    "iso_code": "BHR",
+    "country_code": "+973",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 19,
+    "name": {
+        "en": "Bangladesh",
+        "nl": "Bangladesh"
+    },
+    "short_name": "BD",
+    "iso_code": "BGD",
+    "country_code": "+880",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 20,
+    "name": {
+        "en": "Barbados",
+        "nl": "Barbados"
+    },
+    "short_name": "BB",
+    "iso_code": "BRB",
+    "country_code": "+1-246 ",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 21,
+    "name": {
+        "en": "Belarus",
+        "nl": "Belarus"
+    },
+    "short_name": "BY",
+    "iso_code": "BLR",
+    "country_code": "+375",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 22,
+    "name": {
+        "en": "Belgium",
+        "nl": "België"
+    },
+    "short_name": "BE",
+    "iso_code": "BEL",
+    "country_code": "+32",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 23,
+    "name": {
+        "en": "Belize",
+        "nl": "Belize"
+    },
+    "short_name": "BZ",
+    "iso_code": "BLZ",
+    "country_code": "+501",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 24,
+    "name": {
+        "en": "Benin",
+        "nl": "Benin"
+    },
+    "short_name": "BJ",
+    "iso_code": "BEN",
+    "country_code": "+229",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 25,
+    "name": {
+        "en": "Bermuda",
+        "nl": "Bermuda"
+    },
+    "short_name": "BM",
+    "iso_code": "BMU",
+    "country_code": "+1-441 ",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 26,
+    "name": {
+        "en": "Bhutan",
+        "nl": "Bhutan"
+    },
+    "short_name": "BT",
+    "iso_code": "BTN",
+    "country_code": "+975",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 27,
+    "name": {
+        "en": "Bolivia",
+        "nl": "Bolivia"
+    },
+    "short_name": "BO",
+    "iso_code": "BOL",
+    "country_code": "+591",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 28,
+    "name": {
+        "en": "Bonaire",
+        "nl": "Bonaire"
+    },
+    "short_name": "BQ",
+    "iso_code": "BES",
+    "country_code": "+599-7",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 29,
+    "name": {
+        "en": "Germany",
+        "nl": "Bondsrepubliek Duitsland"
+    },
+    "short_name": "DE",
+    "iso_code": "DEU",
+    "country_code": "+49",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 30,
+    "name": {
+        "en": "Bosnia and Herzegovina",
+        "nl": "Bosnië-Herzegovina"
+    },
+    "short_name": "BA",
+    "iso_code": "BIH",
+    "country_code": "+387",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 31,
+    "name": {
+        "en": "Botswana",
+        "nl": "Botswana"
+    },
+    "short_name": "BW",
+    "iso_code": "BWA",
+    "country_code": "+267",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 32,
+    "name": {
+        "en": "Brazil",
+        "nl": "Brazilië"
+    },
+    "short_name": "BR",
+    "iso_code": "BRA",
+    "country_code": "+55",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 33,
+    "name": {
+        "en": "British Indian Ocean Territory",
+        "nl": "Brits Indische Oceaanterritorium"
+    },
+    "short_name": "IO",
+    "iso_code": "IOT",
+    "country_code": "+246",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 34,
+    "name": {
+        "en": "British Virginislands",
+        "nl": "Britse Maagdeneilanden"
+    },
+    "short_name": "VG",
+    "iso_code": "VGB",
+    "country_code": "+1-284 ",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 35,
+    "name": {
+        "en": "Brunei",
+        "nl": "Brunei"
+    },
+    "short_name": "BN",
+    "iso_code": "BRN",
+    "country_code": "+673",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 36,
+    "name": {
+        "en": "Bulgaria",
+        "nl": "Bulgarije"
+    },
+    "short_name": "BG",
+    "iso_code": "BGR",
+    "country_code": "+359",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 37,
+    "name": {
+        "en": "Burkina Faso",
+        "nl": "Burkina Faso"
+    },
+    "short_name": "BF",
+    "iso_code": "BFA",
+    "country_code": "+226",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 38,
+    "name": {
+        "en": "Burundi",
+        "nl": "Burundi"
+    },
+    "short_name": "BI",
+    "iso_code": "BDI",
+    "country_code": "+257",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 39,
+    "name": {
+        "en": "Cambodia",
+        "nl": "Cambodja"
+    },
+    "short_name": "KH",
+    "iso_code": "KHM",
+    "country_code": "+855",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 40,
+    "name": {
+        "en": "Canada",
+        "nl": "Canada"
+    },
+    "short_name": "CA",
+    "iso_code": "CAN",
+    "country_code": "+1",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 41,
+    "name": {
+        "en": "Canary Islands",
+        "nl": "Canarische Eilanden"
+    },
+    "short_name": "IC",
+    "iso_code": null,
+    "country_code": "+34",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 42,
+    "name": {
+        "en": "Cayman Islands",
+        "nl": "Caymaneilanden"
+    },
+    "short_name": "KY",
+    "iso_code": "CYM",
+    "country_code": "+1-345 ",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 43,
+    "name": {
+        "en": "Central-African Republic",
+        "nl": "Centraal-Afrikaanse Republiek"
+    },
+    "short_name": "CF",
+    "iso_code": "CAF",
+    "country_code": "+236",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 44,
+    "name": {
+        "en": "Chili",
+        "nl": "Chili"
+    },
+    "short_name": "CL",
+    "iso_code": "CHL",
+    "country_code": "+56",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 45,
+    "name": {
+        "en": "China",
+        "nl": "China"
+    },
+    "short_name": "CN",
+    "iso_code": "CHN",
+    "country_code": "+86",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 46,
+    "name": {
+        "en": "Christmase Island",
+        "nl": "Christmaseiland"
+    },
+    "short_name": "CX",
+    "iso_code": "CXR",
+    "country_code": "+61",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 47,
+    "name": {
+        "en": "Cocose Islands",
+        "nl": "Cocoseilanden"
+    },
+    "short_name": "CC",
+    "iso_code": "CCK",
+    "country_code": "+61",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 48,
+    "name": {
+        "en": "Colombia",
+        "nl": "Colombia"
+    },
+    "short_name": "CO",
+    "iso_code": "COL",
+    "country_code": "+57",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 49,
+    "name": {
+        "en": "Comoros",
+        "nl": "Comoren"
+    },
+    "short_name": "KM",
+    "iso_code": "COM",
+    "country_code": "+269",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 50,
+    "name": {
+        "en": "Congo",
+        "nl": "Congo"
+    },
+    "short_name": "CG",
+    "iso_code": "COG",
+    "country_code": "+242",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 51,
+    "name": {
+        "en": "Cook Islands",
+        "nl": "Cookeilanden"
+    },
+    "short_name": "CK",
+    "iso_code": "COK",
+    "country_code": "+682",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 52,
+    "name": {
+        "en": "Costa Rica",
+        "nl": "Costa Rica"
+    },
+    "short_name": "CR",
+    "iso_code": "CRI",
+    "country_code": "+506",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 53,
+    "name": {
+        "en": "Cuba",
+        "nl": "Cuba"
+    },
+    "short_name": "CU",
+    "iso_code": "CUB",
+    "country_code": "+53",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 54,
+    "name": {
+        "en": "Curacao",
+        "nl": "Curaçao"
+    },
+    "short_name": "CW",
+    "iso_code": "CUW",
+    "country_code": "+599",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 55,
+    "name": {
+        "en": "Cyprus",
+        "nl": "Cyprus"
+    },
+    "short_name": "CY",
+    "iso_code": "CYP",
+    "country_code": "+357",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 56,
+    "name": {
+        "en": "Democratic Republic of the Congo",
+        "nl": "Democratische Republiek Congo"
+    },
+    "short_name": "CD",
+    "iso_code": "COD",
+    "country_code": "+243",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 57,
+    "name": {
+        "en": "Denmark",
+        "nl": "Denemarken"
+    },
+    "short_name": "DK",
+    "iso_code": "DNK",
+    "country_code": "+45",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 58,
+    "name": {
+        "en": "Djibouti",
+        "nl": "Djibouti"
+    },
+    "short_name": "DJ",
+    "iso_code": "DJI",
+    "country_code": "+253",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 59,
+    "name": {
+        "en": "Dominica",
+        "nl": "Dominica"
+    },
+    "short_name": "DM",
+    "iso_code": "DMA",
+    "country_code": "+1-767 ",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 60,
+    "name": {
+        "en": "Dominican Republic",
+        "nl": "Dominicaanse Republiek"
+    },
+    "short_name": "DO",
+    "iso_code": "DOM",
+    "country_code": "+1-809 ",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 61,
+    "name": {
+        "en": "Ecuador",
+        "nl": "Ecuador"
+    },
+    "short_name": "EC",
+    "iso_code": "ECU",
+    "country_code": "+593",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 62,
+    "name": {
+        "en": "Egypt",
+        "nl": "Egypte"
+    },
+    "short_name": "EG",
+    "iso_code": "EGY",
+    "country_code": "+20",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 63,
+    "name": {
+        "en": "El Salvador",
+        "nl": "El Salvador"
+    },
+    "short_name": "SV",
+    "iso_code": "SLV",
+    "country_code": "+503",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 64,
+    "name": {
+        "en": "Equatorial Guinea",
+        "nl": "Equatoriaal-Guinea"
+    },
+    "short_name": "GQ",
+    "iso_code": "GNQ",
+    "country_code": "+240",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 65,
+    "name": {
+        "en": "Eritrea",
+        "nl": "Eritrea"
+    },
+    "short_name": "ER",
+    "iso_code": "ERI",
+    "country_code": "+291",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 66,
+    "name": {
+        "en": "Estonia",
+        "nl": "Estland"
+    },
+    "short_name": "EE",
+    "iso_code": "EST",
+    "country_code": "+372",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 67,
+    "name": {
+        "en": "Ethiopia",
+        "nl": "Ethiopië"
+    },
+    "short_name": "ET",
+    "iso_code": "ETH",
+    "country_code": "+251",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 68,
+    "name": {
+        "en": "Faroe Islands",
+        "nl": "Faeröer"
+    },
+    "short_name": "FO",
+    "iso_code": "FRO",
+    "country_code": "+298",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 69,
+    "name": {
+        "en": "Falkland Islands",
+        "nl": "Falklandeilanden"
+    },
+    "short_name": "FK",
+    "iso_code": "FLK",
+    "country_code": "+500",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 70,
+    "name": {
+        "en": "Fiji",
+        "nl": "Fiji"
+    },
+    "short_name": "FJ",
+    "iso_code": "FJI",
+    "country_code": "+679",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 71,
+    "name": {
+        "en": "Philippines",
+        "nl": "Filipijnen"
+    },
+    "short_name": "PH",
+    "iso_code": "PHL",
+    "country_code": "+63",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 72,
+    "name": {
+        "en": "Finland",
+        "nl": "Finland"
+    },
+    "short_name": "FI",
+    "iso_code": "FIN",
+    "country_code": "+358",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 73,
+    "name": {
+        "en": "France",
+        "nl": "Frankrijk"
+    },
+    "short_name": "FR",
+    "iso_code": "FRA",
+    "country_code": "+33",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 74,
+    "name": {
+        "en": "French Guyana",
+        "nl": "Frans-Guyana"
+    },
+    "short_name": "GF",
+    "iso_code": "GUF",
+    "country_code": "+594",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 75,
+    "name": {
+        "en": "French Polynesia",
+        "nl": "Frans-Polynesië"
+    },
+    "short_name": "PF",
+    "iso_code": "PYF",
+    "country_code": "+689",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 76,
+    "name": {
+        "en": "Gabon",
+        "nl": "Gabon"
+    },
+    "short_name": "GA",
+    "iso_code": "GAB",
+    "country_code": "+241",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 77,
+    "name": {
+        "en": "Gambia",
+        "nl": "Gambia"
+    },
+    "short_name": "GM",
+    "iso_code": "GMB",
+    "country_code": "+220",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 78,
+    "name": {
+        "en": "Georgia",
+        "nl": "Georgië"
+    },
+    "short_name": "GE",
+    "iso_code": "GEO",
+    "country_code": "+995",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 79,
+    "name": {
+        "en": "Ghana",
+        "nl": "Ghana"
+    },
+    "short_name": "GH",
+    "iso_code": "GHA",
+    "country_code": "+233",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 80,
+    "name": {
+        "en": "Gibraltar",
+        "nl": "Gibraltar"
+    },
+    "short_name": "GI",
+    "iso_code": "GIB",
+    "country_code": "+350",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 81,
+    "name": {
+        "en": "Grenada",
+        "nl": "Grenada"
+    },
+    "short_name": "GD",
+    "iso_code": "GRD",
+    "country_code": "+1-473 ",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 82,
+    "name": {
+        "en": "Greece",
+        "nl": "Griekenland"
+    },
+    "short_name": "GR",
+    "iso_code": "GRC",
+    "country_code": "+30",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 83,
+    "name": {
+        "en": "Greenland",
+        "nl": "Groenland"
+    },
+    "short_name": "GL",
+    "iso_code": "GRL",
+    "country_code": "+299",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 84,
+    "name": {
+        "en": "United Kingdom",
+        "nl": "Verenigd Koninkrijk"
+    },
+    "short_name": "UK",
+    "iso_code": null,
+    "country_code": "+44",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 85,
+    "name": {
+        "en": "Guadeloupe",
+        "nl": "Guadeloupe"
+    },
+    "short_name": "GP",
+    "iso_code": "GLP",
+    "country_code": "+590",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 86,
+    "name": {
+        "en": "Guam",
+        "nl": "Guam"
+    },
+    "short_name": "GU",
+    "iso_code": "GUM",
+    "country_code": "+1-671 ",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 87,
+    "name": {
+        "en": "Guatemala",
+        "nl": "Guatemala"
+    },
+    "short_name": "GT",
+    "iso_code": "GTM",
+    "country_code": "+502",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 88,
+    "name": {
+        "en": "Guinea",
+        "nl": "Guinee"
+    },
+    "short_name": "GN",
+    "iso_code": "GIN",
+    "country_code": "+224",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 89,
+    "name": {
+        "en": "Guinea-Bissau",
+        "nl": "Guinee-Bissau"
+    },
+    "short_name": "GW",
+    "iso_code": "GNB",
+    "country_code": "+245",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 90,
+    "name": {
+        "en": "Guyana",
+        "nl": "Guyana"
+    },
+    "short_name": "GY",
+    "iso_code": "GUY",
+    "country_code": "+592",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 91,
+    "name": {
+        "en": "Haiti",
+        "nl": "Haïti"
+    },
+    "short_name": "HT",
+    "iso_code": "HTI",
+    "country_code": "+509",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 92,
+    "name": {
+        "en": "Honduras",
+        "nl": "Honduras"
+    },
+    "short_name": "HN",
+    "iso_code": "HND",
+    "country_code": "+504",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 93,
+    "name": {
+        "en": "Hungary",
+        "nl": "Hongarije"
+    },
+    "short_name": "HU",
+    "iso_code": "HUN",
+    "country_code": "+36",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 94,
+    "name": {
+        "en": "Ireland",
+        "nl": "Ierland"
+    },
+    "short_name": "IE",
+    "iso_code": "IRL",
+    "country_code": "+353",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 95,
+    "name": {
+        "en": "Iceland",
+        "nl": "IJsland"
+    },
+    "short_name": "IS",
+    "iso_code": "ISL",
+    "country_code": "+354",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 96,
+    "name": {
+        "en": "India",
+        "nl": "India"
+    },
+    "short_name": "IN",
+    "iso_code": "IND",
+    "country_code": "+91",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 97,
+    "name": {
+        "en": "Indonesia",
+        "nl": "Indonesië"
+    },
+    "short_name": "ID",
+    "iso_code": "IDN",
+    "country_code": "+62",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 98,
+    "name": {
+        "en": "Iraq",
+        "nl": "Irak"
+    },
+    "short_name": "IQ",
+    "iso_code": "IRQ",
+    "country_code": "+964",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 99,
+    "name": {
+        "en": "Iran",
+        "nl": "Iran"
+    },
+    "short_name": "IR",
+    "iso_code": "IRN",
+    "country_code": "+98",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 100,
+    "name": {
+        "en": "Israel",
+        "nl": "Israël"
+    },
+    "short_name": "IL",
+    "iso_code": "ISR",
+    "country_code": "+972",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 101,
+    "name": {
+        "en": "Italy",
+        "nl": "Italië"
+    },
+    "short_name": "IT",
+    "iso_code": "ITA",
+    "country_code": "+39",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 102,
+    "name": {
+        "en": "Ivory Coast",
+        "nl": "Ivoorkust"
+    },
+    "short_name": "CI",
+    "iso_code": "CIV",
+    "country_code": "+225",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 103,
+    "name": {
+        "en": "Jamaica",
+        "nl": "Jamaica"
+    },
+    "short_name": "JM",
+    "iso_code": "JAM",
+    "country_code": "+1-876 ",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 104,
+    "name": {
+        "en": "Japan",
+        "nl": "Japan"
+    },
+    "short_name": "JP",
+    "iso_code": "JPN",
+    "country_code": "+81",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 105,
+    "name": {
+        "en": "Yemen",
+        "nl": "Jemen"
+    },
+    "short_name": "YE",
+    "iso_code": "YEM",
+    "country_code": "+967",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 106,
+    "name": {
+        "en": "Johnston",
+        "nl": "Johnston"
+    },
+    "short_name": "JSSS",
+    "iso_code": null,
+    "country_code": "+808",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 107,
+    "name": {
+        "en": "Jordan",
+        "nl": "Jordanië"
+    },
+    "short_name": "JO",
+    "iso_code": "JOR",
+    "country_code": "+962",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 108,
+    "name": {
+        "en": "Cape Verde",
+        "nl": "Kaapverdië"
+    },
+    "short_name": "CV",
+    "iso_code": "CPV",
+    "country_code": "+238",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 109,
+    "name": {
+        "en": "Cameroon",
+        "nl": "Kameroen"
+    },
+    "short_name": "CM",
+    "iso_code": "CMR",
+    "country_code": "+237",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 110,
+    "name": {
+        "en": "Channel Islands",
+        "nl": "Kanaaleilanden"
+    },
+    "short_name": "UK",
+    "iso_code": null,
+    "country_code": "+44",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 111,
+    "name": {
+        "en": "Kazakhstan",
+        "nl": "Kazachstan"
+    },
+    "short_name": "KZ",
+    "iso_code": "KAZ",
+    "country_code": "+7",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 112,
+    "name": {
+        "en": "Kenya",
+        "nl": "Kenya"
+    },
+    "short_name": "KE",
+    "iso_code": "KEN",
+    "country_code": "+254",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 113,
+    "name": {
+        "en": "Kyrgyzstan",
+        "nl": "Kirgizië"
+    },
+    "short_name": "KG",
+    "iso_code": "KGZ",
+    "country_code": "+996",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 114,
+    "name": {
+        "en": "Kiribati",
+        "nl": "Kiribati"
+    },
+    "short_name": "KI",
+    "iso_code": "KIR",
+    "country_code": "+686",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 115,
+    "name": {
+        "en": "Kuwait",
+        "nl": "Koeweit"
+    },
+    "short_name": "KW",
+    "iso_code": "KWT",
+    "country_code": "+965",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 116,
+    "name": {
+        "en": "Kosovo",
+        "nl": "Kosovo"
+    },
+    "short_name": "XK",
+    "iso_code": "KOS",
+    "country_code": "+383",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 117,
+    "name": {
+        "en": "Croatia",
+        "nl": "Kroatië"
+    },
+    "short_name": "HR",
+    "iso_code": "HRV",
+    "country_code": "+385",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 118,
+    "name": {
+        "en": "Laos",
+        "nl": "Laos"
+    },
+    "short_name": "LA",
+    "iso_code": "LAO",
+    "country_code": "+856",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 119,
+    "name": {
+        "en": "Lesotho",
+        "nl": "Lesotho"
+    },
+    "short_name": "LS",
+    "iso_code": "LSO",
+    "country_code": "+266",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 120,
+    "name": {
+        "en": "Latvia",
+        "nl": "Letland"
+    },
+    "short_name": "LV",
+    "iso_code": "LVA",
+    "country_code": "+371",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 121,
+    "name": {
+        "en": "Lebanon",
+        "nl": "Libanon"
+    },
+    "short_name": "LB",
+    "iso_code": "LBN",
+    "country_code": "+961",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 122,
+    "name": {
+        "en": "Liberia",
+        "nl": "Liberia"
+    },
+    "short_name": "LR",
+    "iso_code": "LBR",
+    "country_code": "+231",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 123,
+    "name": {
+        "en": "Libya",
+        "nl": "Libië"
+    },
+    "short_name": "LY",
+    "iso_code": "LBY",
+    "country_code": "+218",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 124,
+    "name": {
+        "en": "Liechtenstein",
+        "nl": "Liechtenstein"
+    },
+    "short_name": "LI",
+    "iso_code": "LIE",
+    "country_code": "+423",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 125,
+    "name": {
+        "en": "Lithuania",
+        "nl": "Litouwen"
+    },
+    "short_name": "LT",
+    "iso_code": "LTU",
+    "country_code": "+370",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 126,
+    "name": {
+        "en": "Luxembourg",
+        "nl": "Luxemburg"
+    },
+    "short_name": "LU",
+    "iso_code": "LUX",
+    "country_code": "+352",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 127,
+    "name": {
+        "en": "Macedonia",
+        "nl": "Macedonië"
+    },
+    "short_name": "MK",
+    "iso_code": "MKD",
+    "country_code": "+389",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 128,
+    "name": {
+        "en": "Madagascar",
+        "nl": "Madagaskar"
+    },
+    "short_name": "MG",
+    "iso_code": "MDG",
+    "country_code": "+261",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 129,
+    "name": {
+        "en": "Madeira Islands",
+        "nl": "Madeira-eilanden"
+    },
+    "short_name": "PT-30",
+    "iso_code": null,
+    "country_code": "+351",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 130,
+    "name": {
+        "en": "Malawi",
+        "nl": "Malawi"
+    },
+    "short_name": "MW",
+    "iso_code": "MWI",
+    "country_code": "+265",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 131,
+    "name": {
+        "en": "Maldives",
+        "nl": "Maldiven"
+    },
+    "short_name": "MV",
+    "iso_code": "MDV",
+    "country_code": "+960",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 132,
+    "name": {
+        "en": "Malaysia",
+        "nl": "Maleisië"
+    },
+    "short_name": "MY",
+    "iso_code": "MYS",
+    "country_code": "+60",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 133,
+    "name": {
+        "en": "Mali",
+        "nl": "Mali"
+    },
+    "short_name": "ML",
+    "iso_code": "MLI",
+    "country_code": "+223",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 134,
+    "name": {
+        "en": "Malta",
+        "nl": "Malta"
+    },
+    "short_name": "MT",
+    "iso_code": "MLT",
+    "country_code": "+356",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 135,
+    "name": {
+        "en": "Man",
+        "nl": "Man"
+    },
+    "short_name": "IM",
+    "iso_code": "IMN",
+    "country_code": "+44",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 136,
+    "name": {
+        "en": "Marianen",
+        "nl": "Marianen"
+    },
+    "short_name": "MP",
+    "iso_code": "MNP",
+    "country_code": "+ 1 670",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 137,
+    "name": {
+        "en": "Morocco",
+        "nl": "Marokko"
+    },
+    "short_name": "MA",
+    "iso_code": "MAR",
+    "country_code": "+212",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 138,
+    "name": {
+        "en": "Marshall Islands",
+        "nl": "Marshalleilanden"
+    },
+    "short_name": "MH",
+    "iso_code": "MHL",
+    "country_code": "+692",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 139,
+    "name": {
+        "en": "Martinique",
+        "nl": "Martinique"
+    },
+    "short_name": "MQ",
+    "iso_code": "MTQ",
+    "country_code": "+596",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 140,
+    "name": {
+        "en": "Mauritania",
+        "nl": "Mauritanië"
+    },
+    "short_name": "MR",
+    "iso_code": "MRT",
+    "country_code": "+222",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 141,
+    "name": {
+        "en": "Mauritius",
+        "nl": "Mauritius"
+    },
+    "short_name": "MU",
+    "iso_code": "MUS",
+    "country_code": "+230",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 142,
+    "name": {
+        "en": "Mayotte",
+        "nl": "Mayotte"
+    },
+    "short_name": "YT",
+    "iso_code": "MYT",
+    "country_code": "+262",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 143,
+    "name": {
+        "en": "Mexico",
+        "nl": "Mexico"
+    },
+    "short_name": "MX",
+    "iso_code": "MEX",
+    "country_code": "+52",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 144,
+    "name": {
+        "en": "Micronesia",
+        "nl": "Micronesia"
+    },
+    "short_name": "FM",
+    "iso_code": "FSM",
+    "country_code": "+691",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 145,
+    "name": {
+        "en": "Midway",
+        "nl": "Midway"
+    },
+    "short_name": "UM-71",
+    "iso_code": null,
+    "country_code": "+808",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 146,
+    "name": {
+        "en": "Moldavia",
+        "nl": "Moldavië"
+    },
+    "short_name": "MD",
+    "iso_code": "MDA",
+    "country_code": "+373",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 147,
+    "name": {
+        "en": "Monaco",
+        "nl": "Monaco"
+    },
+    "short_name": "MC",
+    "iso_code": "MCO",
+    "country_code": "+377",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 148,
+    "name": {
+        "en": "Mongolia",
+        "nl": "Mongolië"
+    },
+    "short_name": "MN",
+    "iso_code": "MNG",
+    "country_code": "+976",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 149,
+    "name": {
+        "en": "Montenegro",
+        "nl": "Montenegro"
+    },
+    "short_name": "ME",
+    "iso_code": "MNE",
+    "country_code": "+382",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 150,
+    "name": {
+        "en": "Montserrat",
+        "nl": "Montserrat"
+    },
+    "short_name": "MS",
+    "iso_code": "MSR",
+    "country_code": "+1-664 ",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 151,
+    "name": {
+        "en": "Mozambique",
+        "nl": "Mozambique"
+    },
+    "short_name": "MZ",
+    "iso_code": "MOZ",
+    "country_code": "+258",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 152,
+    "name": {
+        "en": "Myanmar",
+        "nl": "Myanmar"
+    },
+    "short_name": "MM",
+    "iso_code": "MMR",
+    "country_code": "+95",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 153,
+    "name": {
+        "en": "Namibia",
+        "nl": "Namibië"
+    },
+    "short_name": "NA",
+    "iso_code": "NAM",
+    "country_code": "+264",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 154,
+    "name": {
+        "en": "Nauru",
+        "nl": "Nauru"
+    },
+    "short_name": "NR",
+    "iso_code": "NRU",
+    "country_code": "+674",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 155,
+    "name": {
+        "en": "Netherlands",
+        "nl": "Nederland"
+    },
+    "short_name": "NL",
+    "iso_code": "NLD",
+    "country_code": "+31",
+    "region": "NLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 156,
+    "name": {
+        "en": "Nepal",
+        "nl": "Nepal"
+    },
+    "short_name": "NP",
+    "iso_code": "NPL",
+    "country_code": "+977",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 157,
+    "name": {
+        "en": "Nicaragua",
+        "nl": "Nicaragua"
+    },
+    "short_name": "NI",
+    "iso_code": "NIC",
+    "country_code": "+505",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 158,
+    "name": {
+        "en": "New Caledonia",
+        "nl": "Nieuw-Caledonië"
+    },
+    "short_name": "NC",
+    "iso_code": "NCL",
+    "country_code": "+687",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 159,
+    "name": {
+        "en": "New Zealand",
+        "nl": "Nieuw-Zeeland"
+    },
+    "short_name": "NZ",
+    "iso_code": "NZL",
+    "country_code": "+64",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 160,
+    "name": {
+        "en": "Niger",
+        "nl": "Niger"
+    },
+    "short_name": "NE",
+    "iso_code": "NER",
+    "country_code": "+227",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 161,
+    "name": {
+        "en": "Nigeria",
+        "nl": "Nigeria"
+    },
+    "short_name": "NG",
+    "iso_code": "NGA",
+    "country_code": "+234",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 162,
+    "name": {
+        "en": "Niue",
+        "nl": "Niue"
+    },
+    "short_name": "NU",
+    "iso_code": "NIU",
+    "country_code": "+683",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 163,
+    "name": {
+        "en": "North Korea",
+        "nl": "Noord-Korea"
+    },
+    "short_name": "KP",
+    "iso_code": "PRK",
+    "country_code": "+850",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 164,
+    "name": {
+        "en": "Norway",
+        "nl": "Noorwegen"
+    },
+    "short_name": "NO",
+    "iso_code": "NOR",
+    "country_code": "+47",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 165,
+    "name": {
+        "en": "Norfolk",
+        "nl": "Norfolk"
+    },
+    "short_name": "NF",
+    "iso_code": "NFK",
+    "country_code": "+672",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 166,
+    "name": {
+        "en": "Ukraine",
+        "nl": "Oekraïne"
+    },
+    "short_name": "UA",
+    "iso_code": "UKR",
+    "country_code": "+380",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 167,
+    "name": {
+        "en": "Uzbekistan",
+        "nl": "Oezbekistan"
+    },
+    "short_name": "UZ",
+    "iso_code": "UZB",
+    "country_code": "+998",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 168,
+    "name": {
+        "en": "Oman",
+        "nl": "Oman"
+    },
+    "short_name": "OM",
+    "iso_code": "OMN",
+    "country_code": "+968",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 169,
+    "name": {
+        "en": "Austria",
+        "nl": "Oostenrijk"
+    },
+    "short_name": "AT",
+    "iso_code": "AUT",
+    "country_code": "+43",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 170,
+    "name": {
+        "en": "Pakistan",
+        "nl": "Pakistan"
+    },
+    "short_name": "PK",
+    "iso_code": "PAK",
+    "country_code": "+92",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 171,
+    "name": {
+        "en": "Palau",
+        "nl": "Palau"
+    },
+    "short_name": "PW",
+    "iso_code": "PLW",
+    "country_code": "+680",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 172,
+    "name": {
+        "en": "Panama",
+        "nl": "Panama"
+    },
+    "short_name": "PA",
+    "iso_code": "PAN",
+    "country_code": "+507",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 173,
+    "name": {
+        "en": "Papua New Guinea",
+        "nl": "Papoea-Nieuw-Guinea"
+    },
+    "short_name": "PG",
+    "iso_code": "PNG",
+    "country_code": "+675",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 174,
+    "name": {
+        "en": "Paraguay",
+        "nl": "Paraguay"
+    },
+    "short_name": "PY",
+    "iso_code": "PRY",
+    "country_code": "+595",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 175,
+    "name": {
+        "en": "Peru",
+        "nl": "Peru"
+    },
+    "short_name": "PE",
+    "iso_code": "PER",
+    "country_code": "+51",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 176,
+    "name": {
+        "en": "Pitcairn Islands",
+        "nl": "Pitcairneilanden"
+    },
+    "short_name": "PN",
+    "iso_code": "PCN",
+    "country_code": "+64",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 177,
+    "name": {
+        "en": "Poland",
+        "nl": "Polen"
+    },
+    "short_name": "PL",
+    "iso_code": "POL",
+    "country_code": "+48",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 178,
+    "name": {
+        "en": "Portugal",
+        "nl": "Portugal"
+    },
+    "short_name": "PT",
+    "iso_code": "PRT",
+    "country_code": "+351",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 179,
+    "name": {
+        "en": "Puerto Rico",
+        "nl": "Puerto Rico"
+    },
+    "short_name": "PR",
+    "iso_code": "PRI",
+    "country_code": "+1-787",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 180,
+    "name": {
+        "en": "Qatar",
+        "nl": "Qatar"
+    },
+    "short_name": "QA",
+    "iso_code": "QAT",
+    "country_code": "+974",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 181,
+    "name": {
+        "en": "Reunion",
+        "nl": "Réunion"
+    },
+    "short_name": "RE",
+    "iso_code": "REU",
+    "country_code": "+262",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 182,
+    "name": {
+        "en": "Romania",
+        "nl": "Roemenië"
+    },
+    "short_name": "RO",
+    "iso_code": "ROU",
+    "country_code": "+40",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 183,
+    "name": {
+        "en": "Russia",
+        "nl": "Rusland"
+    },
+    "short_name": "RU",
+    "iso_code": "RUS",
+    "country_code": "+7",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 184,
+    "name": {
+        "en": "Rwanda",
+        "nl": "Rwanda"
+    },
+    "short_name": "RW",
+    "iso_code": "RWA",
+    "country_code": "+250",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 185,
+    "name": {
+        "en": "Saba",
+        "nl": "Saba"
+    },
+    "short_name": "BQ-SA",
+    "iso_code": null,
+    "country_code": "+ 599 + 4",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 186,
+    "name": {
+        "en": "Saint Kitts and Nevis",
+        "nl": "Saint Kitts en Nevis"
+    },
+    "short_name": "KN",
+    "iso_code": "KNA",
+    "country_code": "+1-869 ",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 187,
+    "name": {
+        "en": "Saint Lucia",
+        "nl": "Saint Lucia"
+    },
+    "short_name": "LC",
+    "iso_code": "LCA",
+    "country_code": "+1-758 ",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 188,
+    "name": {
+        "en": "Saint Pierre and Miquelon",
+        "nl": "Saint Pierre en Miquelon"
+    },
+    "short_name": "PM",
+    "iso_code": "SPM",
+    "country_code": "+508",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 189,
+    "name": {
+        "en": "Saint Vincent and the Grenadines",
+        "nl": "Saint Vincent en de Grenadines"
+    },
+    "short_name": "VC",
+    "iso_code": "VCT",
+    "country_code": "+1-784 ",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 190,
+    "name": {
+        "en": "Solomon Islands",
+        "nl": "Salomonseilanden"
+    },
+    "short_name": "SB",
+    "iso_code": "SLB",
+    "country_code": "+677",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 191,
+    "name": {
+        "en": "Samoa",
+        "nl": "Samoa"
+    },
+    "short_name": "WS",
+    "iso_code": "WSM",
+    "country_code": "+685",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 192,
+    "name": {
+        "en": "San Marino",
+        "nl": "San Marino"
+    },
+    "short_name": "SM",
+    "iso_code": "SMR",
+    "country_code": "+378",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 193,
+    "name": {
+        "en": "São Tomé and Príncipe",
+        "nl": "São Tomé en Principe"
+    },
+    "short_name": "ST",
+    "iso_code": "STP",
+    "country_code": "+239",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 194,
+    "name": {
+        "en": "Saudi Arabia",
+        "nl": "Saoedi-Arabië"
+    },
+    "short_name": "SA",
+    "iso_code": "SAU",
+    "country_code": "+966",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 195,
+    "name": {
+        "en": "Senegal",
+        "nl": "Senegal"
+    },
+    "short_name": "SN",
+    "iso_code": "SEN",
+    "country_code": "+221",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 196,
+    "name": {
+        "en": "Serbia",
+        "nl": "Servië"
+    },
+    "short_name": "RS",
+    "iso_code": "SRB",
+    "country_code": "+381",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 197,
+    "name": {
+        "en": "Seychelles",
+        "nl": "Seychellen"
+    },
+    "short_name": "SC",
+    "iso_code": "SYC",
+    "country_code": "+248",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 198,
+    "name": {
+        "en": "Sierra Leone",
+        "nl": "Sierra Leone"
+    },
+    "short_name": "SL",
+    "iso_code": "SLE",
+    "country_code": "+232",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 199,
+    "name": {
+        "en": "Singapore",
+        "nl": "Singapore"
+    },
+    "short_name": "SG",
+    "iso_code": "SGP",
+    "country_code": "+65",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 200,
+    "name": {
+        "en": "Saint Eustatius",
+        "nl": "Sint Eustatius"
+    },
+    "short_name": "NL",
+    "iso_code": "NLD",
+    "country_code": "+ 599 + 3",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 201,
+    "name": {
+        "en": "St Martin",
+        "nl": "Sint Maarten"
+    },
+    "short_name": "MF",
+    "iso_code": "MAF",
+    "country_code": "+1-721 ",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 202,
+    "name": {
+        "en": "Saint Helena",
+        "nl": "Sint-Helena"
+    },
+    "short_name": "SH",
+    "iso_code": "SHN",
+    "country_code": "+290",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 203,
+    "name": {
+        "en": "Slovenia",
+        "nl": "Slovenië"
+    },
+    "short_name": "SI",
+    "iso_code": "SVN",
+    "country_code": "+386",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 204,
+    "name": {
+        "en": "Slovakia",
+        "nl": "Slowakije"
+    },
+    "short_name": "SK",
+    "iso_code": "SVK",
+    "country_code": "+421",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 205,
+    "name": {
+        "en": "Sudan",
+        "nl": "Soedan"
+    },
+    "short_name": "SD",
+    "iso_code": "SDN",
+    "country_code": "+249",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 206,
+    "name": {
+        "en": "Somalia",
+        "nl": "Somalië"
+    },
+    "short_name": "SO",
+    "iso_code": "SOM",
+    "country_code": "+252",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 207,
+    "name": {
+        "en": "Spain",
+        "nl": "Spanje"
+    },
+    "short_name": "ES",
+    "iso_code": "ESP",
+    "country_code": "+34",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 208,
+    "name": {
+        "en": "Sri Lanka",
+        "nl": "Sri Lanka"
+    },
+    "short_name": "LK",
+    "iso_code": "LKA",
+    "country_code": "+94",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 209,
+    "name": {
+        "en": "Suriname",
+        "nl": "Suriname"
+    },
+    "short_name": "SR",
+    "iso_code": "SUR",
+    "country_code": "+597",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 210,
+    "name": {
+        "en": "Svalbard Islands",
+        "nl": "Svalbardeilanden"
+    },
+    "short_name": "SJ",
+    "iso_code": "SJM",
+    "country_code": "+47",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 211,
+    "name": {
+        "en": "Swaziland",
+        "nl": "Swaziland"
+    },
+    "short_name": "SZ",
+    "iso_code": "SWZ",
+    "country_code": "+268",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 212,
+    "name": {
+        "en": "Syria",
+        "nl": "Syrië"
+    },
+    "short_name": "SY",
+    "iso_code": "SYR",
+    "country_code": "+963",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 213,
+    "name": {
+        "en": "Tajikistan",
+        "nl": "Tadzjikistan"
+    },
+    "short_name": "TJ",
+    "iso_code": "TJK",
+    "country_code": "+992",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 214,
+    "name": {
+        "en": "Taiwan",
+        "nl": "Taiwan"
+    },
+    "short_name": "TW",
+    "iso_code": "TWN",
+    "country_code": "+886",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 215,
+    "name": {
+        "en": "Tanzania",
+        "nl": "Tanzania"
+    },
+    "short_name": "TZ",
+    "iso_code": "TZA",
+    "country_code": "+255",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 216,
+    "name": {
+        "en": "Thailand",
+        "nl": "Thailand"
+    },
+    "short_name": "TH",
+    "iso_code": "THA",
+    "country_code": "+66",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 217,
+    "name": {
+        "en": "Timor Leste",
+        "nl": "Timor Leste"
+    },
+    "short_name": "TL",
+    "iso_code": "TLS",
+    "country_code": "+670",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 218,
+    "name": {
+        "en": "Togo",
+        "nl": "Togo"
+    },
+    "short_name": "TG",
+    "iso_code": "TGO",
+    "country_code": "+228",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 219,
+    "name": {
+        "en": "Tokelau",
+        "nl": "Tokelau"
+    },
+    "short_name": "TK",
+    "iso_code": "TKL",
+    "country_code": "+690",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 220,
+    "name": {
+        "en": "Tonga",
+        "nl": "Tonga"
+    },
+    "short_name": "TO",
+    "iso_code": "TON",
+    "country_code": "+676",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 221,
+    "name": {
+        "en": "Trinidad and Tobago",
+        "nl": "Trinidad en Tobago"
+    },
+    "short_name": "TT",
+    "iso_code": "TTO",
+    "country_code": "+1-868 ",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 222,
+    "name": {
+        "en": "Tristan Da Cunha",
+        "nl": "Tristan Da Cunha"
+    },
+    "short_name": "SH / SHN",
+    "iso_code": null,
+    "country_code": "+290",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 223,
+    "name": {
+        "en": "Chad",
+        "nl": "Tsjaad"
+    },
+    "short_name": "TD",
+    "iso_code": "TCD",
+    "country_code": "+235",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 224,
+    "name": {
+        "en": "Czech Republic",
+        "nl": "Tsjechië"
+    },
+    "short_name": "CZ",
+    "iso_code": "CZE",
+    "country_code": "+420",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 225,
+    "name": {
+        "en": "Tunisia",
+        "nl": "Tunesië"
+    },
+    "short_name": "TN",
+    "iso_code": "TUN",
+    "country_code": "+216",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 226,
+    "name": {
+        "en": "Turkey",
+        "nl": "Turkije"
+    },
+    "short_name": "TR",
+    "iso_code": "TUR",
+    "country_code": "+90",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 227,
+    "name": {
+        "en": "Turkmenistan",
+        "nl": "Turkmenistan"
+    },
+    "short_name": "TM",
+    "iso_code": "TKM",
+    "country_code": "+993",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 228,
+    "name": {
+        "en": "Turks and Caicos Islands",
+        "nl": "Turks- en Caicoseilanden"
+    },
+    "short_name": "TC",
+    "iso_code": "TCA",
+    "country_code": "+1-649 ",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 229,
+    "name": {
+        "en": "Tuvalu",
+        "nl": "Tuvalu"
+    },
+    "short_name": "TV",
+    "iso_code": "TUV",
+    "country_code": "+688",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 230,
+    "name": {
+        "en": "Uganda",
+        "nl": "Uganda"
+    },
+    "short_name": "UG",
+    "iso_code": "UGA",
+    "country_code": "+256",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 231,
+    "name": {
+        "en": "Uruguay",
+        "nl": "Uruguay"
+    },
+    "short_name": "UY",
+    "iso_code": "URY",
+    "country_code": "+598",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 232,
+    "name": {
+        "en": "Vanuatu",
+        "nl": "Vanuatu"
+    },
+    "short_name": "VU",
+    "iso_code": "VUT",
+    "country_code": "+678",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 233,
+    "name": {
+        "en": "Vatican City",
+        "nl": "Vaticaanstad"
+    },
+    "short_name": "VA / VAT",
+    "iso_code": null,
+    "country_code": "+379",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 234,
+    "name": {
+        "en": "Venezuela",
+        "nl": "Venezuela"
+    },
+    "short_name": "VE",
+    "iso_code": "VEN",
+    "country_code": "+58",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 235,
+    "name": {
+        "en": "United Arab Emirates",
+        "nl": "Verenigde Arabische Emiraten"
+    },
+    "short_name": "AE",
+    "iso_code": "ARE",
+    "country_code": "+971",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 236,
+    "name": {
+        "en": "United States",
+        "nl": "Verenigde Staten van Amerika"
+    },
+    "short_name": "US",
+    "iso_code": "USA",
+    "country_code": "+1",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 237,
+    "name": {
+        "en": "Vietnam",
+        "nl": "Vietnam"
+    },
+    "short_name": "VN",
+    "iso_code": "VNM",
+    "country_code": "+84",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 238,
+    "name": {
+        "en": "Wake",
+        "nl": "Wake"
+    },
+    "short_name": "UM-79",
+    "iso_code": null,
+    "country_code": "+808",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 239,
+    "name": {
+        "en": "Wallis and Futuna",
+        "nl": "Wallis en Futuna"
+    },
+    "short_name": "WF",
+    "iso_code": "WLF",
+    "country_code": "+681",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 240,
+    "name": {
+        "en": "Western Sahara",
+        "nl": "Westelijke Sahara"
+    },
+    "short_name": "EH",
+    "iso_code": "ESH",
+    "country_code": "+212",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 241,
+    "name": {
+        "en": "Zambia",
+        "nl": "Zambia"
+    },
+    "short_name": "ZM",
+    "iso_code": "ZMB",
+    "country_code": "+260",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 242,
+    "name": {
+        "en": "Zimbabwe",
+        "nl": "Zimbabwe"
+    },
+    "short_name": "ZW",
+    "iso_code": "ZWE",
+    "country_code": "+263",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 243,
+    "name": {
+        "en": "South Africa",
+        "nl": "Zuid-Afrika"
+    },
+    "short_name": "ZA",
+    "iso_code": "ZAF",
+    "country_code": "+27",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 244,
+    "name": {
+        "en": "South Korea",
+        "nl": "Zuid-Korea"
+    },
+    "short_name": "KR",
+    "iso_code": "KOR",
+    "country_code": "+82",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 245,
+    "name": {
+        "en": "Southern Sudan",
+        "nl": "Zuid-Soedan"
+    },
+    "short_name": "SS",
+    "iso_code": "SSD",
+    "country_code": "+211",
+    "region": "WLD",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 246,
+    "name": {
+        "en": "Sweden",
+        "nl": "Zweden"
+    },
+    "short_name": "SE",
+    "iso_code": "SWE",
+    "country_code": "+46",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+},
+{
+    "id": 247,
+    "name": {
+        "en": "Switzerland",
+        "nl": "Zwitserland"
+    },
+    "short_name": "CH",
+    "iso_code": "CHE",
+    "country_code": "+41",
+    "region": "EUR",
+    "created_at": "2020-09-24 13:15:44",
+    "updated_at": "2020-09-24 13:15:44"
+}]

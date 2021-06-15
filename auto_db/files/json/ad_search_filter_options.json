@@ -1,0 +1,28 @@
+[{
+    "id" : 1,
+    "name" : "Price ascending"
+},{
+    "id" : 2,
+    "name" : "Price descending"
+},{
+    "id" : 3,
+    "name" : "Mileage ascending"
+},{
+    "id" : 4,
+    "name" : "Mileage descending"
+},{
+    "id" : 5,
+    "name" : "Year of construction ascending"
+},{
+    "id" : 6,
+    "name" : "Year of construction descending"
+},{
+    "id" : 7,
+    "name" : "Show last entered vehicle first"
+},{
+    "id" : 8,
+    "name" : "Show last entered vehicle last"
+},{
+    "id" : 9,
+    "name" : "Show only vehicles with incomplete data"
+}]
